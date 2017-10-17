@@ -1,11 +1,11 @@
 {
-  "name": "atom-dark-ui",
+  "name": "gravity-ui",
   "theme": "ui",
-  "version": "0.53.0",
-  "description": "A dark UI theme for Atom",
+  "version": "0.0.0",
+  "description": "Tester UI - Gravity UI",
   "license": "MIT",
-  "repository": "https://github.com/atom/atom-dark-ui",
+  "repository": "https://github.com/ericluuci/gravity-ui",
   "engines": {
-    "atom": ">0.40.0"
+    "atom": ">=1.0.0 <2.0.0"
   }
 }
