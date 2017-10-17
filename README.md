@@ -1,6 +1,6 @@
 # Atom Gravity UI theme
 
-A UI theme for Atom.
+A simple UI theme for Atom.
 
 Installation
 
